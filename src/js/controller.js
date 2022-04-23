@@ -101,6 +101,6 @@ const init = function () {
   resultView.addHandlerRender(searchResultUpdate);
   addRecipeView.addHandlerRender(controlAddrecipe);
   console.log('Hello');
-  console.log('How are you?');
+  console.log('where are you from?');
 };
 init();
