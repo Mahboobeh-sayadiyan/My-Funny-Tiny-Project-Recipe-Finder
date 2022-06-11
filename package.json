@@ -1,7 +1,7 @@
 {
-  "name": "starter",
+  "name": "Find Recipe",
   "version": "1.0.0",
-  "description": "forkify application",
+  "description": "find receipe application",
   "default": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
